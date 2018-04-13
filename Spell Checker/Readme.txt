@@ -10,7 +10,7 @@
 *  Description of the program
 *******************************************************
 
-Simple spelling checker
+This programming homework is to develop a simple spelling checker. The file dict.datPreview the document contains 25,021 frequently used words, each on a separate line in lowercase. Read the file, and insert the words into a hash table with 1373 buckets.
 
 *******************************************************
 *  Source files
